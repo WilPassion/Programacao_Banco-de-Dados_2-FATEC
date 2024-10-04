@@ -1,3 +1,4 @@
+#!/usr/bin/env cypher
 // CRIANDO NODES - SELEÇÃO
 
 // Criar a seleção Brasil com as cores Verde e Amarelo
